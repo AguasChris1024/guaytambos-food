@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">GuaytamboFood</string>
+    <string name="txtNombCorreo">Usuario o Correo</string>
+    <string name="txtPassword">Contraseña</string>
+    <string name="btnLogin">Iniciar Sesion</string>
+    <string name="txtRegistro">Registro Usuario</string>
+    <string name="btnRegistrarse">Registrarse</string>
+    <string name="btnRegistrarseUser">Registrarse</string>
+    <string name="usuario">Usuario</string>
+    <string name="nombre">nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="email">Correo</string>
+    <string name="fotoPerfil">FotoPerfil</string>
+    <string name="txtListaProductos">Lista Menu</string>
+    <string name="btnListarMenu">Listar Platos </string>
+    <string name="txtDetallePlato">Detalle Menu</string>
+    <string name="edtProducto">Sopa </string>
+    <string name="edtDescripcion">Segundo</string>
+    <string name="edtPrecio">Precio</string>
+    <string name="edtCantidad">Cantidad</string>
+    <string name="btnRegresaryagregar">Agregar Pedido</string>
+    <string name="mnRegistrar">Registrar</string>
+</resources>
