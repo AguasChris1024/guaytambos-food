@@ -1,17 +1,21 @@
 # Guaytambos Food
 
-Bienvenido a Guaytambos Food, una aplicación para hacer pedidos de comida en línea. Con Guaytambos Food, puedes navegar por una amplia variedad de opciones de comida, hacer un pedido y tenerlo entregado directamente a tu puerta.
+Bienvenido a Guaytambos Food, una aplicación para hacer pedidos de comida en línea. Con Guaytambos Food, puedes navegar por una amplia variedad de opciones de comida, hacer un pedido y tenerlo entregado directamente a tu puerta. Este repositorio contiene un proyecto de servicios web desarrollado en C# para una aplicación de comida en línea.
+
+## Requisitos
+
+Para utilizar este proyecto, debe tener lo siguiente en su equipo:
+
+* .NET Framework 4.7.2 o superior
+* Visual Studio 2017 o superior
 
 ## Instalación
 
 Para instalar Guaytambos Food, siga estos pasos:
 
-1. Descargue el código fuente del repositorio en su máquina local.
-2. Abra un terminal y navegue hasta la carpeta del proyecto.
-3. Ejecute el siguiente comando para instalar las dependencias necesarias: npm install
-4. Una vez que las dependencias estén instaladas, ejecute el siguiente comando para iniciar la aplicación: npm start
-
-La aplicación se ejecutará en un servidor local y estará disponible en `http://localhost:3000`.
+1. Clone el repositorio en su equipo local: git clone https://github.com/AguasChris1024/guaytambos-food.git.
+2. Abra el proyecto en Visual Studio.
+3. Compile y ejecute el proyecto.
 
 ## Uso
 
