@@ -1,27 +1,34 @@
-# proyecto-patrones-software
+# Guaytambos Food
 
-Este repositorio contiene un proyecto de ejemplo de patrones de diseño de software desarrollado en Java que se muestra solo por consola.
+Bienvenido a Guaytambos Food, una aplicación para hacer pedidos de comida en línea. Con Guaytambos Food, puedes navegar por una amplia variedad de opciones de comida, hacer un pedido y tenerlo entregado directamente a tu puerta.
 
-## Requisitos
-Para utilizar este proyecto de ejemplo, debe tener lo siguiente en su equipo:
-
-* Java 8 o superior
-* IDE de Java (como Eclipse o IntelliJ IDEA)
 ## Instalación
 
 Para instalar Guaytambos Food, siga estos pasos:
 
-1. Clone el repositorio en su equipo local: git clone https://github.com/AguasChris1024/proyecto-patrones-software.git
-2. Abra el proyecto en su IDE de Java.
-3. Ejecute el archivo Main.java para ver los resultados en la consola.
+1. Descargue el código fuente del repositorio en su máquina local.
+2. Abra un terminal y navegue hasta la carpeta del proyecto.
+3. Ejecute el siguiente comando para instalar las dependencias necesarias: npm install
+4. Una vez que las dependencias estén instaladas, ejecute el siguiente comando para iniciar la aplicación: npm start
 
+La aplicación se ejecutará en un servidor local y estará disponible en `http://localhost:3000`.
 
 ## Uso
 
-Este proyecto de ejemplo utiliza varios patrones de diseño de software para resolver un problema de ejemplo. Puede explorar el código y ver cómo se aplican los patrones.
+Para hacer un pedido con Guaytambos Food, siga estos pasos:
+
+1. Inicie sesión o regístrese para crear una cuenta.
+2. Navegue por las opciones de comida disponibles y haga clic en los productos que desee pedir.
+3. Haga clic en el carrito de compras en la barra de navegación para ver los productos que ha seleccionado.
+4. Haga clic en "Realizar Pedido" para completar el proceso de compra.
 
 ## Contribución
-Si desea contribuir a este proyecto, por favor envíe una solicitud de pull con sus cambios y describa las características adicionales o las correcciones que ha realizado.
+
+Si desea contribuir a Guaytambos Food, siga estos pasos:
+
+1. Fork el repositorio en su cuenta de GitHub.
+2. Cree una rama nueva para sus cambios.
+3. Haga los cambios y envíe un pull request para solicitar la integración de sus cambios en el repositorio principal.
 
 ## Licencia
 
